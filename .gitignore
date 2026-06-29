@@ -7,3 +7,6 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
+
+# Claude Code 刷题记录（个人错题本，不提交）
+_quiz_log.md
